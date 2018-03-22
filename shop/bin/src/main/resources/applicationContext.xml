@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:cache="http://www.springframework.org/schema/cache" xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:lang="http://www.springframework.org/schema/lang"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+	http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
+	http://www.springframework.org/schema/cache http://www.springframework.org/schema/cache/spring-cache-4.0.xsd
+	http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-4.0.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd
+	http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-4.0.xsd"
+	default-lazy-init="true">
+
+	<context:property-placeholder location="classpath*:/vjshop.properties" ignore-resource-not-found="true" ignore-unresolvable="true" />
+
+	<context:component-scan base-package="com.vjshop">
+		<context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller" />
+		<context:exclude-filter type="annotation" expression="org.springframework.web.bind.annotation.ControllerAdvice" />
+	</context:component-scan>
+
+	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="${jdbc.driver}" />
+		<property name="url" value="${jdbc.url}" />
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+		<property name="initialSize" value="${connection_pools.initial_pool_size}" />
+		<property name="minIdle" value="${connection_pools.min_pool_size}" />
+		<property name="maxIdle" value="${connection_pools.max_pool_size}" />
+		<property name="maxTotal" value="${connection_pools.max_pool_size}" />
+		<property name="timeBetweenEvictionRunsMillis" value="3600000"></property><!--1 hours-->
+		<property name="testWhileIdle" value="true"></property>
+		<property name="validationQuery" value="select 1 from dual"></property>
+		<property name="maxWaitMillis" value="${connection_pools.max.wait}"></property>
+	</bean>
+
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+	<bean id="ehCacheManager" class="org.springframework.cache.ehcache.EhCacheManagerFactoryBean">
+		<property name="configLocation" value="classpath:/ehcache.xml" />
+		<property name="shared" value="true" />
+	</bean>
+
+	<bean id="cacheManager" class="org.springframework.cache.ehcache.EhCacheCacheManager">
+		<property name="cacheManager" ref="ehCacheManager" />
+	</bean>
+
+	<cache:annotation-driven cache-manager="cacheManager" />
+
+	<bean class="org.springframework.cache.ehcache.EhCacheFactoryBean" lazy-init="false">
+		<property name="cacheManager" ref="ehCacheManager" />
+		<property name="cacheName" value="articleHits" />
+		<property name="cacheEventListeners">
+			<ref bean="cacheEventListener" />
+		</property>
+	</bean>
+
+	<bean class="org.springframework.cache.ehcache.EhCacheFactoryBean" lazy-init="false">
+		<property name="cacheManager" ref="ehCacheManager" />
+		<property name="cacheName" value="goodsHits" />
+		<property name="cacheEventListeners">
+			<ref bean="cacheEventListener" />
+		</property>
+	</bean>
+
+	<bean id="freeMarkerConfigurer" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+		<property name="templateLoaderPaths">
+			<array>
+				<value>classpath:/</value>
+				<value>${template.loader_path}</value>
+			</array>
+		</property>
+		<property name="freemarkerSettings">
+			<props>
+				<prop key="defaultEncoding">${template.encoding}</prop>
+				<prop key="url_escaping_charset">${url_escaping_charset}</prop>
+				<prop key="template_update_delay">${template.update_delay}</prop>
+				<prop key="tag_syntax">auto_detect</prop>
+				<prop key="whitespace_stripping">true</prop>
+				<prop key="classic_compatible">true</prop>
+				<prop key="number_format">${template.number_format}</prop>
+				<prop key="boolean_format">${template.boolean_format}</prop>
+				<prop key="datetime_format">${template.datetime_format}</prop>
+				<prop key="date_format">${template.date_format}</prop>
+				<prop key="time_format">${template.time_format}</prop>
+				<prop key="object_wrapper">freemarker.ext.beans.BeansWrapper</prop>
+				<prop key="template_exception_handler">com.vjshop.FreeMarkerExceptionHandler</prop>
+			</props>
+		</property>
+		<property name="freemarkerVariables">
+			<map>
+				<entry key="base" value="#{servletContext.contextPath}" />
+				<entry key="showPowered" value="#{${show_powered}}" />
+				<entry key="message" value-ref="messageMethod" />
+				<entry key="abbreviate" value-ref="abbreviateMethod" />
+				<entry key="currency" value-ref="currencyMethod" />
+				<entry key="flash_message" value-ref="flashMessageDirective" />
+				<entry key="current_member" value-ref="currentMemberDirective" />
+				<entry key="pagination" value-ref="paginationDirective" />
+				<entry key="seo" value-ref="seoDirective" />
+				<entry key="ad_position" value-ref="adPositionDirective" />
+				<entry key="member_attribute_list" value-ref="memberAttributeListDirective" />
+				<entry key="navigation_list" value-ref="navigationListDirective" />
+				<entry key="tag_list" value-ref="tagListDirective" />
+				<entry key="friend_link_list" value-ref="friendLinkListDirective" />
+				<entry key="brand_list" value-ref="brandListDirective" />
+				<entry key="attribute_list" value-ref="attributeListDirective" />
+				<entry key="article_list" value-ref="articleListDirective" />
+				<entry key="article_category_root_list" value-ref="articleCategoryRootListDirective" />
+				<entry key="article_category_parent_list" value-ref="articleCategoryParentListDirective" />
+				<entry key="article_category_children_list" value-ref="articleCategoryChildrenListDirective" />
+				<entry key="goods_list" value-ref="goodsListDirective" />
+				<entry key="product_category_root_list" value-ref="productCategoryRootListDirective" />
+				<entry key="product_category_parent_list" value-ref="productCategoryParentListDirective" />
+				<entry key="product_category_children_list" value-ref="productCategoryChildrenListDirective" />
+				<entry key="review_list" value-ref="reviewListDirective" />
+				<entry key="consultation_list" value-ref="consultationListDirective" />
+				<entry key="promotion_list" value-ref="promotionListDirective" />
+			</map>
+		</property>
+	</bean>
+
+	<bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+		<property name="cacheSeconds" value="${message.cache_seconds}" />
+		<property name="useCodeAsDefaultMessage" value="true" />
+		<property name="basenames">
+			<list>
+				<value>${message.common_path}</value>
+				<value>${message.shop_path}</value>
+				<value>${message.admin_path}</value>
+			</list>
+		</property>
+	</bean>
+
+	<bean id="localeResolver" class="org.springframework.web.servlet.i18n.FixedLocaleResolver" />
+
+	<bean id="imageCaptchaService" class="com.octo.captcha.service.image.DefaultManageableImageCaptchaService">
+		<property name="captchaEngine" ref="captchaEngine" />
+		<property name="minGuarantedStorageDelayInSeconds" value="600" />
+	</bean>
+
+	<task:executor id="taskExecutor" pool-size="${task.pool_size}" queue-capacity="${task.queue_capacity}" keep-alive="${task.keep_alive}" rejection-policy="CALLER_RUNS" />
+
+	<task:annotation-driven executor="taskExecutor" />
+
+	<aop:aspectj-autoproxy proxy-target-class="true" />
+
+	<bean id="timingAspect" class="org.perf4j.log4j.aop.TimingAspect" />
+
+	<!-- jOOQ start -->
+	<!-- Configure Spring's transaction manager to use a DataSource -->
+	<bean id="transactionManager"
+		  class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	<!-- Configure jOOQ's TransactionProvider as a proxy to Spring's transaction manager -->
+	<bean id="transactionProvider"
+		  class="com.vjshop.SpringTransactionProvider">
+	</bean>
+	<!-- Configure jOOQ's ConnectionProvider to use Spring's TransactionAwareDataSourceProxy,
+    which can dynamically discover the transaction context -->
+	<bean id="transactionAwareDataSource"
+		  class="org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy">
+		<constructor-arg ref="dataSource" />
+	</bean>
+	<bean class="org.jooq.impl.DataSourceConnectionProvider" name="connectionProvider">
+		<constructor-arg ref="transactionAwareDataSource" />
+	</bean>
+	<!-- Configure the DSL object, optionally overriding jOOQ Exceptions with Spring Exceptions -->
+	<bean id="dsl" class="org.jooq.impl.DefaultDSLContext">
+		<constructor-arg ref="configuration" />
+	</bean>
+	<bean id="exceptionTranslator" class="com.vjshop.exception.JOOQToSpringExceptionTransformer" />
+	<!-- Invoking an internal, package-private constructor for the example
+    Implement your own Configuration for more reliable behaviour -->
+	<bean class="org.jooq.impl.DefaultConfiguration" name="configuration">
+		<property name="SQLDialect"><value type="org.jooq.SQLDialect">MYSQL</value></property>
+		<property name="connectionProvider" ref="connectionProvider" />
+		<property name="executeListenerProvider">
+			<array>
+				<bean class="org.jooq.impl.DefaultExecuteListenerProvider">
+					<constructor-arg index="0" ref="exceptionTranslator"/>
+				</bean>
+			</array>
+		</property>
+		<property name="recordMapperProvider" ref="sfmRecordMapperProvider"/>
+	</bean>
+
+	<bean name="sfmRecordMapperProvider" class="org.simpleflatmapper.jooq.SfmRecordMapperProvider"/>
+	<!-- jOOQ end -->
+
+</beans>

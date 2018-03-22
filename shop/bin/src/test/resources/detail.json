@@ -1,0 +1,3712 @@
+{
+  "msg": "成功",
+  "err": 0,
+  "list": [
+    {
+      "id": 2,
+      "createDate": 1492013208000,
+      "modifyDate": 1493869604000,
+      "version": 4,
+      "attributeValue0": "4-5英寸",
+      "attributeValue1": "移动4G",
+      "attributeValue2": "单卡多模",
+      "attributeValue3": "iOS",
+      "caption": "至大至薄，强劲动力",
+      "generateMethod": 1,
+      "hits": 6,
+      "image": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg",
+      "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/655abfa9-49b1-419c-af87-ca8b950dc4fe.png\"/></p>",
+      "isDelivery": true,
+      "isList": true,
+      "isMarketable": true,
+      "isTop": true,
+      "keyword": "苹果,apple,iPhone,iPhone6",
+      "marketPrice": 6240,
+      "monthHits": 0,
+      "monthHitsDate": 1492013208000,
+      "monthSales": 0,
+      "monthSalesDate": 1492013208000,
+      "name": "苹果 iPhone 6",
+      "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"iOS\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.7英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1334 x 750\"}]}]",
+      "price": 5200,
+      "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-thumbnail.jpg\",\"order\":2}]",
+      "sales": 0,
+      "score": 0,
+      "scoreCount": 0,
+      "sn": "20150101102",
+      "specificationItems": "[{\"name\":\"颜色\",\"entries\":[{\"id\":0,\"value\":\"黑色\",\"isSelected\":false},{\"id\":1,\"value\":\"白色\",\"isSelected\":false},{\"id\":2,\"value\":\"银色\",\"isSelected\":true},{\"id\":3,\"value\":\"灰色\",\"isSelected\":true},{\"id\":4,\"value\":\"红色\",\"isSelected\":false},{\"id\":5,\"value\":\"金色\",\"isSelected\":true}]},{\"name\":\"内存容量\",\"entries\":[{\"id\":6,\"value\":\"16GB\",\"isSelected\":true},{\"id\":7,\"value\":\"32GB\",\"isSelected\":false},{\"id\":8,\"value\":\"64GB\",\"isSelected\":true},{\"id\":9,\"value\":\"128GB\",\"isSelected\":true}]}]",
+      "totalScore": 0,
+      "type": 0,
+      "unit": "台",
+      "weekHits": 0,
+      "weekHitsDate": 1492013208000,
+      "weekSales": 0,
+      "weekSalesDate": 1492013208000,
+      "weight": 400,
+      "brand": 1,
+      "productCategory": 41,
+      "productCategoryVO": {
+        "id": 41,
+        "createDate": 1492012859000,
+        "modifyDate": 1492012859000,
+        "version": 0,
+        "orders": 1,
+        "grade": 2,
+        "name": "手机",
+        "treePath": ",1,7,",
+        "parent": 7,
+        "img": "https://m.360buyimg.com/mobile/s130x130_jfs/t5755/334/109473661/5866/b96b88d6/591d6238N4d5d8b7e.jpg",
+        "parentVO": {
+          "id": 7,
+          "createDate": 1492012825000,
+          "modifyDate": 1492012825000,
+          "version": 0,
+          "orders": 1,
+          "grade": 1,
+          "name": "手机通讯",
+          "treePath": ",1,",
+          "parent": 1,
+          "img": "https://m.360buyimg.com/mobile/s130x130_jfs/t292/26/1528551027/6204/ba1bbd53/543cc881N97ec2d17.jpg",
+          "attributes": [],
+          "children": [],
+          "goods": [],
+          "brands": [],
+          "promotions": [],
+          "parameters": [],
+          "specifications": [],
+          "path": "/goods/list/7.jhtml",
+          "parentIds": [
+            1
+          ]
+        },
+        "attributes": [
+          {
+            "id": 1,
+            "createDate": 1492013126000,
+            "modifyDate": 1492013126000,
+            "version": 0,
+            "orders": 1,
+            "name": "屏幕尺寸",
+            "options": "[\"3英寸以下\",\"3-4英寸\",\"4-5英寸\",\"5-6英寸\",\"6-7英寸\",\"7-8英寸\",\"8英寸以上\"]",
+            "propertyIndex": 0,
+            "productCategory": 41,
+            "optionsList": [
+              "3英寸以下",
+              "3-4英寸",
+              "4-5英寸",
+              "5-6英寸",
+              "6-7英寸",
+              "7-8英寸",
+              "8英寸以上"
+            ]
+          },
+          {
+            "id": 2,
+            "createDate": 1492013127000,
+            "modifyDate": 1492013127000,
+            "version": 0,
+            "orders": 2,
+            "name": "网络类型",
+            "options": "[\"移动4G\",\"联通4G\",\"电信4G\",\"移动3G\",\"联通3G\",\"电信3G\",\"移动2G\",\"联通2G\",\"电信2G\"]",
+            "propertyIndex": 1,
+            "productCategory": 41,
+            "optionsList": [
+              "移动4G",
+              "联通4G",
+              "电信4G",
+              "移动3G",
+              "联通3G",
+              "电信3G",
+              "移动2G",
+              "联通2G",
+              "电信2G"
+            ]
+          },
+          {
+            "id": 3,
+            "createDate": 1492013128000,
+            "modifyDate": 1492013128000,
+            "version": 0,
+            "orders": 3,
+            "name": "网络模式",
+            "options": "[\"单卡单模\",\"单卡多模\",\"双卡双模\",\"双卡多模\"]",
+            "propertyIndex": 2,
+            "productCategory": 41,
+            "optionsList": [
+              "单卡单模",
+              "单卡多模",
+              "双卡双模",
+              "双卡多模"
+            ]
+          },
+          {
+            "id": 4,
+            "createDate": 1492013129000,
+            "modifyDate": 1492013129000,
+            "version": 0,
+            "orders": 4,
+            "name": "操作系统",
+            "options": "[\"iOS\",\"Android\",\"Windows\",\"其它\"]",
+            "propertyIndex": 3,
+            "productCategory": 41,
+            "optionsList": [
+              "iOS",
+              "Android",
+              "Windows",
+              "其它"
+            ]
+          }
+        ],
+        "children": [],
+        "goods": [
+          {
+            "id": 1,
+            "createDate": 1492013207000,
+            "modifyDate": 1495091175000,
+            "version": 3,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "iOS",
+            "caption": "铝金属外壳，64位智能手机，畅享3G/4G网络",
+            "generateMethod": 1,
+            "hits": 3,
+            "image": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/65feeba6-e840-486d-a617-7ebe77d1b244.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": true,
+            "keyword": "苹果,apple,iPhone,iPhone5s",
+            "marketPrice": 5040,
+            "monthHits": 0,
+            "monthHitsDate": 1492013207000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013207000,
+            "name": "苹果 iPhone 5s",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"iOS\"},{\"name\":\"CPU频率\",\"value\":\"1.3GHz\"},{\"name\":\"核心数\",\"value\":\"双核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.0英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1136 x 640\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 4200,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101101",
+            "specificationItems": "[{\"name\":\"颜色\",\"entries\":[{\"id\":1,\"value\":\"黑色\",\"isSelected\":false},{\"id\":2,\"value\":\"白色\",\"isSelected\":false},{\"id\":3,\"value\":\"银色\",\"isSelected\":true},{\"id\":4,\"value\":\"灰色\",\"isSelected\":true},{\"id\":5,\"value\":\"红色\",\"isSelected\":false},{\"id\":6,\"value\":\"金色\",\"isSelected\":true}]},{\"name\":\"内存容量\",\"entries\":[{\"id\":7,\"value\":\"16GB\",\"isSelected\":true},{\"id\":8,\"value\":\"32GB\",\"isSelected\":true},{\"id\":9,\"value\":\"64GB\",\"isSelected\":true},{\"id\":10,\"value\":\"128GB\",\"isSelected\":false}]}]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013207000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013207000,
+            "weight": 350,
+            "brand": 1,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/00705b09-2f7c-438b-b0a2-cbe236c1407d-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "iOS"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.3GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "双核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.0英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1136 x 640"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [
+              {
+                "name": "颜色",
+                "entries": [
+                  {
+                    "id": 1,
+                    "value": "黑色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 2,
+                    "value": "白色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 3,
+                    "value": "银色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 4,
+                    "value": "灰色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 5,
+                    "value": "红色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 6,
+                    "value": "金色",
+                    "isSelected": true
+                  }
+                ]
+              },
+              {
+                "name": "内存容量",
+                "entries": [
+                  {
+                    "id": 7,
+                    "value": "16GB",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 8,
+                    "value": "32GB",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 9,
+                    "value": "64GB",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 10,
+                    "value": "128GB",
+                    "isSelected": false
+                  }
+                ]
+              }
+            ],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/1.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "url": "http://localhost:8080/goods/content/1.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/e39f89ce-e08a-4546-8aee-67d4427e86e2-thumbnail.jpg"
+          },
+          {
+            "id": 2,
+            "createDate": 1492013208000,
+            "modifyDate": 1493869604000,
+            "version": 4,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "iOS",
+            "caption": "至大至薄，强劲动力",
+            "generateMethod": 1,
+            "hits": 6,
+            "image": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/655abfa9-49b1-419c-af87-ca8b950dc4fe.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": true,
+            "keyword": "苹果,apple,iPhone,iPhone6",
+            "marketPrice": 6240,
+            "monthHits": 0,
+            "monthHitsDate": 1492013208000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013208000,
+            "name": "苹果 iPhone 6",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"iOS\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.7英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1334 x 750\"}]}]",
+            "price": 5200,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101102",
+            "specificationItems": "[{\"name\":\"颜色\",\"entries\":[{\"id\":0,\"value\":\"黑色\",\"isSelected\":false},{\"id\":1,\"value\":\"白色\",\"isSelected\":false},{\"id\":2,\"value\":\"银色\",\"isSelected\":true},{\"id\":3,\"value\":\"灰色\",\"isSelected\":true},{\"id\":4,\"value\":\"红色\",\"isSelected\":false},{\"id\":5,\"value\":\"金色\",\"isSelected\":true}]},{\"name\":\"内存容量\",\"entries\":[{\"id\":6,\"value\":\"16GB\",\"isSelected\":true},{\"id\":7,\"value\":\"32GB\",\"isSelected\":false},{\"id\":8,\"value\":\"64GB\",\"isSelected\":true},{\"id\":9,\"value\":\"128GB\",\"isSelected\":true}]}]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013208000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013208000,
+            "weight": 400,
+            "brand": 1,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "iOS"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.7英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1334 x 750"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [
+              {
+                "name": "颜色",
+                "entries": [
+                  {
+                    "id": 0,
+                    "value": "黑色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 1,
+                    "value": "白色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 2,
+                    "value": "银色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 3,
+                    "value": "灰色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 4,
+                    "value": "红色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 5,
+                    "value": "金色",
+                    "isSelected": true
+                  }
+                ]
+              },
+              {
+                "name": "内存容量",
+                "entries": [
+                  {
+                    "id": 6,
+                    "value": "16GB",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 7,
+                    "value": "32GB",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 8,
+                    "value": "64GB",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 9,
+                    "value": "128GB",
+                    "isSelected": true
+                  }
+                ]
+              }
+            ],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/2.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            "url": "http://localhost:8080/goods/content/2.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg"
+          },
+          {
+            "id": 3,
+            "createDate": 1492013209000,
+            "modifyDate": 1492013209000,
+            "version": 0,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "移动3G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "时尚便携，畅享3G网络",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/43aa7db7-cc85-4d3e-b0eb-99b582b24fb3.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": true,
+            "keyword": "三星,samsung,三星G3818,G3818",
+            "marketPrice": 1440,
+            "monthHits": 0,
+            "monthHitsDate": 1492013209000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013209000,
+            "name": "三星 G3818",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.2GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2100mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"960 x 540\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1GB\"},{\"name\":\"机身内存\",\"value\":\"4GB\"}]}]",
+            "price": 1200,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101103",
+            "specificationItems": "[{\"name\":\"颜色\",\"entries\":[{\"id\":0,\"value\":\"黑色\",\"isSelected\":true},{\"id\":1,\"value\":\"白色\",\"isSelected\":true},{\"id\":2,\"value\":\"银色\",\"isSelected\":false},{\"id\":3,\"value\":\"灰色\",\"isSelected\":false},{\"id\":4,\"value\":\"红色\",\"isSelected\":false},{\"id\":5,\"value\":\"金色\",\"isSelected\":false}]}]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013209000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013209000,
+            "weight": 300,
+            "brand": 2,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/75c56df2-e30c-4130-9ac1-2bdd764f61c7-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/a5bd8371-2f7e-48c2-814c-6231454ca0b2-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2100mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "960 x 540"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "4GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [
+              {
+                "name": "颜色",
+                "entries": [
+                  {
+                    "id": 0,
+                    "value": "黑色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 1,
+                    "value": "白色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 2,
+                    "value": "银色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 3,
+                    "value": "灰色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 4,
+                    "value": "红色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 5,
+                    "value": "金色",
+                    "isSelected": false
+                  }
+                ]
+              }
+            ],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/3.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "url": "http://localhost:8080/goods/content/3.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/031e30a4-6237-4650-a14c-5132aa126acd-thumbnail.jpg"
+          },
+          {
+            "id": 4,
+            "createDate": 1492013210000,
+            "modifyDate": 1492139959000,
+            "version": 2,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "电信4G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "IP67级防尘防水，超级续航，电力持久",
+            "generateMethod": 1,
+            "hits": 2,
+            "image": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/06185005-d60a-49c0-a1f0-466efb50fcdd.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": true,
+            "keyword": "三星,samsung,Galaxy S5 G9009W",
+            "marketPrice": 4560,
+            "monthHits": 0,
+            "monthHitsDate": 1492013210000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013210000,
+            "name": "三星 Galaxy S5 G9009W",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"2.5GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2800mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.1英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1920 x 1080\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 3800,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-thumbnail.jpg\",\"order\":3},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-thumbnail.jpg\",\"order\":4},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-thumbnail.jpg\",\"order\":5}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101104",
+            "specificationItems": "[{\"name\":\"颜色\",\"entries\":[{\"id\":0,\"value\":\"黑色\",\"isSelected\":true},{\"id\":1,\"value\":\"白色\",\"isSelected\":true},{\"id\":2,\"value\":\"银色\",\"isSelected\":false},{\"id\":3,\"value\":\"灰色\",\"isSelected\":false},{\"id\":4,\"value\":\"红色\",\"isSelected\":false},{\"id\":5,\"value\":\"金色\",\"isSelected\":false}]}]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013210000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013210000,
+            "weight": 400,
+            "brand": 2,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/59c4693b-8601-4344-8c31-c94fa9b80d5c-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/e81217d1-22d5-4e3d-b549-8f8a63db1439-thumbnail.jpg",
+                "order": 3
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/fb983ce1-ca9c-4276-9041-e0587f835201-thumbnail.jpg",
+                "order": 4
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/ddffe8ed-4f93-4d9a-bae5-07408f892804-thumbnail.jpg",
+                "order": 5
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "2.5GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2800mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.1英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1920 x 1080"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [
+              {
+                "name": "颜色",
+                "entries": [
+                  {
+                    "id": 0,
+                    "value": "黑色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 1,
+                    "value": "白色",
+                    "isSelected": true
+                  },
+                  {
+                    "id": 2,
+                    "value": "银色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 3,
+                    "value": "灰色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 4,
+                    "value": "红色",
+                    "isSelected": false
+                  },
+                  {
+                    "id": 5,
+                    "value": "金色",
+                    "isSelected": false
+                  }
+                ]
+              }
+            ],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/4.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "url": "http://localhost:8080/goods/content/4.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/10ac8459-4110-47df-80f9-3a7d0486dd30-thumbnail.jpg"
+          },
+          {
+            "id": 5,
+            "createDate": 1492013211000,
+            "modifyDate": 1496308019000,
+            "version": 8,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "一体化设计，尖端工艺",
+            "generateMethod": 1,
+            "hits": 9,
+            "image": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/25606c77-73d6-4bf4-befc-d4721000b300.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": true,
+            "keyword": "华为,huawei",
+            "marketPrice": 2280,
+            "monthHits": 0,
+            "monthHitsDate": 1492013211000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013211000,
+            "name": "华为 Ascend G7",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.2GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"3000mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1900,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101105",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013211000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013211000,
+            "weight": 450,
+            "brand": 4,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/36522eab-9938-4b55-90bf-345cdb329157-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "3000mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/5.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/5.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/198bc691-83e8-42f5-9595-5a54367911c3-thumbnail.jpg"
+          },
+          {
+            "id": 6,
+            "createDate": 1492013212000,
+            "modifyDate": 1492013212000,
+            "version": 0,
+            "attributeValue0": "6-7英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "极速4G网络，一触即连",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/2db01fed-3b55-4cfa-b981-2220e2c57e12.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "华为,huawei",
+            "marketPrice": 1920,
+            "monthHits": 0,
+            "monthHitsDate": 1492013212000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013212000,
+            "name": "华为 Mate2-L01",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.6GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"4050mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"6.1英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1600,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101106",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013212000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013212000,
+            "weight": 500,
+            "brand": 4,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7bcd1589-ac7a-4aac-aeb0-6d4af0f4929c-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/6ad1e1f2-da6d-4e50-95c0-fab3cea27028-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.6GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "4050mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "6.1英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/6.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/6.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/5a9fbec8-b801-45f1-80a8-62205a2aff8c-thumbnail.jpg"
+          },
+          {
+            "id": 7,
+            "createDate": 1492013213000,
+            "modifyDate": 1492013213000,
+            "version": 0,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "联通3G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "超视网膜屏幕，单玻璃一体化贴合",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/def38c63-113b-4fc1-bac9-2683495c9352.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "meizu",
+            "marketPrice": 1200,
+            "monthHits": 0,
+            "monthHitsDate": 1492013213000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013213000,
+            "name": "魅族 MX2",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.6GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"1900mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.4英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 800\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1000,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101107",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013213000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013213000,
+            "weight": 420,
+            "brand": 5,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/ddfd4218-5b14-4003-833e-06ccfa4f0d38-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/9770078a-68e7-4138-88f1-6c9b11adbdb1-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.6GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "1900mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.4英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 800"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/7.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/7.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b3c89b0a-ebc4-4a05-94f2-e087078a1b54-thumbnail.jpg"
+          },
+          {
+            "id": 8,
+            "createDate": 1492013214000,
+            "modifyDate": 1492013214000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动3G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "八核处理器，大容量电池",
+            "generateMethod": 1,
+            "hits": 1,
+            "image": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/0ab08b76-ca01-4d62-8077-0aa0d6d7b390.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "meizu",
+            "marketPrice": 2160,
+            "monthHits": 0,
+            "monthHitsDate": 1492013214000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013214000,
+            "name": "魅族 MX3",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.6GHz\"},{\"name\":\"核心数\",\"value\":\"八核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2400mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.1英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1800 x 1080\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1800,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101108",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013214000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013214000,
+            "weight": 600,
+            "brand": 5,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/a0530c45-e0f7-4a53-a5cd-b8101bfc7795-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/afd843a4-e02b-4ad0-b722-4ae1ed8eaed6-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.6GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "八核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2400mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.1英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1800 x 1080"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/8.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/8.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/6f62e931-2436-4f58-9d43-e8b5dcb4a89b-thumbnail.jpg"
+          },
+          {
+            "id": 9,
+            "createDate": 1492013215000,
+            "modifyDate": 1492013215000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "支持移动4G网络，更智能更省电",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/efc7c2ab-1570-49d4-b0ba-2e990dc222a3.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "meizu",
+            "marketPrice": 2400,
+            "monthHits": 0,
+            "monthHitsDate": 1492013215000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013215000,
+            "name": "魅族 MX4",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"2.2GHz\"},{\"name\":\"核心数\",\"value\":\"八核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"3100mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.3英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1920 x 1152\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 2000,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-thumbnail.jpg\",\"order\":3},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-thumbnail.jpg\",\"order\":4}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101109",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013215000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013215000,
+            "weight": 380,
+            "brand": 5,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/2532572a-3d65-475c-b2ef-d913763b6e38-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/90d7d1df-daf9-46a9-9aab-3c8c6b3bbc7b-thumbnail.jpg",
+                "order": 3
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/938d18fc-94ce-4937-93b3-d6a5442a2acb-thumbnail.jpg",
+                "order": 4
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "2.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "八核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "3100mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.3英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1920 x 1152"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/9.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/9.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/94e4e7aa-655f-4496-9563-147ce6037eb7-thumbnail.jpg"
+          },
+          {
+            "id": 10,
+            "createDate": 1492013216000,
+            "modifyDate": 1493262552000,
+            "version": 2,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "电信3G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "四核处理器，超强游戏性能",
+            "generateMethod": 0,
+            "hits": 1,
+            "image": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/ee29deb3-a6e2-42e6-aa4c-69a7cfe181e0.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "mi",
+            "marketPrice": 2760,
+            "monthHits": 0,
+            "monthHitsDate": 1492013216000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013216000,
+            "name": "小米4",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"2.5GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"3080mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.0英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1920 x 1080\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"3GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 2300,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101110",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013216000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013216000,
+            "weight": 400,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/0ff55e61-f88c-4406-90ea-971aaed6ad96-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "2.5GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "3080mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.0英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1920 x 1080"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "3GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/10.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/10.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7b01f6f9-df7e-40d8-aa6b-a3b43d84a46a-thumbnail.jpg"
+          },
+          {
+            "id": 11,
+            "createDate": 1492013217000,
+            "modifyDate": 1492013217000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动3G",
+            "attributeValue2": "双卡双模",
+            "attributeValue3": "Android",
+            "caption": "八核处理器，1300万堆栈式摄像头",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/969dc4e0-2d18-4a5e-8b89-42f473897241.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "huawei",
+            "marketPrice": 1440,
+            "monthHits": 0,
+            "monthHitsDate": 1492013217000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013217000,
+            "name": "华为 荣耀",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.4GHz\"},{\"name\":\"核心数\",\"value\":\"八核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"3000mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"8GB\"}]}]",
+            "price": 1200,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-thumbnail.jpg\",\"order\":3},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-thumbnail.jpg\",\"order\":4}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101111",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013217000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013217000,
+            "weight": 380,
+            "brand": 4,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/409af325-8507-4490-b8c5-ca42e7fe6923-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/14fe3b1f-7a24-4df7-aef4-e119e2810272-thumbnail.jpg",
+                "order": 3
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/c83d5945-201f-458a-bb59-5a6d7504971b-thumbnail.jpg",
+                "order": 4
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.4GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "八核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "3000mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "8GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/11.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/11.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/e127d29f-9874-4d9b-a25d-02861d23c68b-thumbnail.jpg"
+          },
+          {
+            "id": 12,
+            "createDate": 1492013218000,
+            "modifyDate": 1492013218000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "电信4G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "4G极速芯片，7层镀膜复合工艺",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/2ebb327f-f034-4276-877b-5277e527707e.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "huawei",
+            "marketPrice": 3000,
+            "monthHits": 0,
+            "monthHitsDate": 1492013218000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013218000,
+            "name": "华为 Ascend P7-L09",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.8GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2500mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.0英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1920 x 1080\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 2500,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101112",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013218000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013218000,
+            "weight": 150,
+            "brand": 4,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/84c71364-4420-4fb7-9267-c32a129b08f4-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/6d7ffcc4-fc5e-4930-a063-e637edfef3d5-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.8GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2500mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.0英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1920 x 1080"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/12.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/12.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/fa45c26a-9bde-4be0-8bfb-fd254511dea1-thumbnail.jpg"
+          },
+          {
+            "id": 13,
+            "createDate": 1492013219000,
+            "modifyDate": 1492013219000,
+            "version": 0,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "电信3G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "时尚外观设计，4.5英寸显示屏",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/bbbe4b80-0210-46d3-8323-a1e602b90399.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 720,
+            "monthHits": 0,
+            "monthHitsDate": 1492013219000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013219000,
+            "name": "三星 G3559",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"核心数\",\"value\":\"双核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"480 x 800\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"512MB\"},{\"name\":\"机身内存\",\"value\":\"4GB\"}]}]",
+            "price": 600,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101113",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013219000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013219000,
+            "weight": 280,
+            "brand": 2,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/10d2e612-34c0-4598-96e7-5b75ad99d788-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "双核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "480 x 800"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "512MB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "4GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/13.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/13.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/8ad872a6-55f9-49b2-9575-1d079cd9aed6-thumbnail.jpg"
+          },
+          {
+            "id": 14,
+            "createDate": 1492013220000,
+            "modifyDate": 1492013220000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "联通4G",
+            "attributeValue2": "单卡多模",
+            "attributeValue3": "Android",
+            "caption": "手势感应，动态照片",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/2783ccbd-19da-43a6-bf84-9a7599edfcac.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 2398,
+            "monthHits": 0,
+            "monthHitsDate": 1492013220000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013220000,
+            "name": "三星 Galaxy S4 I9507V",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.9GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2600mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.0英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1920 x 1080\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1999,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101114",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013220000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013220000,
+            "weight": 380,
+            "brand": 2,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b4b1f101-ae14-4ded-8064-01b56357de46-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b8307215-f3a1-47b0-afb9-cf1fbad7c2f3-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.9GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2600mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.0英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1920 x 1080"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/14.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/14.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7d70f669-8373-41fe-b386-939a121c54b2-thumbnail.jpg"
+          },
+          {
+            "id": 15,
+            "createDate": 1492013221000,
+            "modifyDate": 1492013221000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动4G",
+            "attributeValue2": "单卡单模",
+            "attributeValue3": "Android",
+            "caption": "纤薄轻盈，流光镜面，极至美学",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/dfd20cb3-6fa4-4cb6-b520-fce24ff56808.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 3120,
+            "monthHits": 0,
+            "monthHitsDate": 1492013221000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013221000,
+            "name": "OPPO R8007 R1S",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.6GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2410mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.0英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 2600,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-thumbnail.jpg\",\"order\":3}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101115",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013221000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013221000,
+            "weight": 380,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b2096975-ae1b-43d6-9a14-fd3b2a07b8e0-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/a5a3dd31-7f89-4030-91bf-a9eae461ef70-thumbnail.jpg",
+                "order": 3
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.6GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2410mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.0英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/15.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/15.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d61e4a9e-ee3f-4508-ba8f-cd07539c4072-thumbnail.jpg"
+          },
+          {
+            "id": 16,
+            "createDate": 1492013222000,
+            "modifyDate": 1492013222000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "电信4G",
+            "attributeValue2": "双卡双模",
+            "attributeValue3": "Android",
+            "caption": "至薄时尚外观，超强拍摄体验",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/a0cd9b85-fe25-4069-89e0-a21700f8ce36.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 1920,
+            "monthHits": 0,
+            "monthHitsDate": 1492013222000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013222000,
+            "name": "HTC Desire 816v",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.6GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2600mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1.5GB\"},{\"name\":\"机身内存\",\"value\":\"8GB\"}]}]",
+            "price": 1600,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101116",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013222000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013222000,
+            "weight": 380,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/7a8b02b1-461d-4456-b006-405b3fdfa443-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.6GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2600mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1.5GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "8GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/16.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/16.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/eb929582-aa50-4835-a3fd-bf518724b011-thumbnail.jpg"
+          },
+          {
+            "id": 17,
+            "createDate": 1492013223000,
+            "modifyDate": 1492013223000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "联通4G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "4G双网双通全兼容，5.5英寸高清屏幕",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/ff51ac5c-ffca-408a-983d-7d6de462d314.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 2160,
+            "monthHits": 0,
+            "monthHitsDate": 1492013223000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013223000,
+            "name": "HTC Desire 820u",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.5GHz\"},{\"name\":\"核心数\",\"value\":\"八核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2600mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 1800,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101117",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013223000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013223000,
+            "weight": 340,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b3fdf430-9d7f-4ab8-81b8-e941f15d0da9-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.5GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "八核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2600mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/17.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/17.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/296785e4-1b10-4676-bc20-7b4d76a6f86a-thumbnail.jpg"
+          },
+          {
+            "id": 18,
+            "createDate": 1492013224000,
+            "modifyDate": 1492013224000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "移动3G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "智能、便捷、人性化",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/95ec584e-a469-4c03-acba-c2b58f6a3529.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 720,
+            "monthHits": 0,
+            "monthHitsDate": 1492013224000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013224000,
+            "name": "酷派 8670",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.2GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"2500mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"960 x 540\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1GB\"},{\"name\":\"机身内存\",\"value\":\"4GB\"}]}]",
+            "price": 600,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-thumbnail.jpg\",\"order\":2},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-thumbnail.jpg\",\"order\":3},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-thumbnail.jpg\",\"order\":4}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101118",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013224000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013224000,
+            "weight": 460,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/4c4c6bca-dbc7-45b7-990d-3939196170ba-thumbnail.jpg",
+                "order": 2
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/2eaf7a6b-6ef1-496d-a9e9-18028252d5a9-thumbnail.jpg",
+                "order": 3
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/602eb249-afdb-4e8e-8d27-d1e26e828f41-thumbnail.jpg",
+                "order": 4
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "2500mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "960 x 540"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "4GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/18.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/18.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d959ab2a-caf9-4a5e-94ff-193d6e561a4d-thumbnail.jpg"
+          },
+          {
+            "id": 19,
+            "createDate": 1492013225000,
+            "modifyDate": 1492013225000,
+            "version": 0,
+            "attributeValue0": "4-5英寸",
+            "attributeValue1": "移动3G",
+            "attributeValue2": "双卡双模",
+            "attributeValue3": "Android",
+            "caption": "1300万堆栈式摄像头，丰富拍照功能",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/fc56c593-98a6-49e7-8716-3ffe10b38c32.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "marketPrice": 960,
+            "monthHits": 0,
+            "monthHitsDate": 1492013225000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013225000,
+            "name": "酷派 8908",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.2GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"1720mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"4.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"1GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 800,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101119",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013225000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013225000,
+            "weight": 500,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/51e99884-48d1-486b-8217-773108b1bf0f-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "1720mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "4.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "1GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/19.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/19.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/36191a74-0fc6-400e-8b1c-0e5cc6f4ed88-thumbnail.jpg"
+          },
+          {
+            "id": 20,
+            "createDate": 1492013226000,
+            "modifyDate": 1492013226000,
+            "version": 0,
+            "attributeValue0": "5-6英寸",
+            "attributeValue1": "联通4G",
+            "attributeValue2": "双卡多模",
+            "attributeValue3": "Android",
+            "caption": "64位处理理，性能强劲",
+            "generateMethod": 0,
+            "hits": 0,
+            "image": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-thumbnail.jpg",
+            "introduction": "<p><img src=\"http://image.demo.shopxx.net/4.0/201501/1f648178-fa9a-4be8-81cb-53b4de76a525.png\"/></p>",
+            "isDelivery": true,
+            "isList": true,
+            "isMarketable": true,
+            "isTop": false,
+            "keyword": "zte",
+            "marketPrice": 1198.8,
+            "monthHits": 0,
+            "monthHitsDate": 1492013226000,
+            "monthSales": 0,
+            "monthSalesDate": 1492013226000,
+            "name": "中兴 V5 Max",
+            "parameterValues": "[{\"group\":\"基本参数\",\"entries\":[{\"name\":\"操作系统\",\"value\":\"Android\"},{\"name\":\"CPU频率\",\"value\":\"1.2GHz\"},{\"name\":\"核心数\",\"value\":\"四核\"},{\"name\":\"电池类型\",\"value\":\"锂电池\"},{\"name\":\"电池容量\",\"value\":\"3100mAh\"}]},{\"group\":\"显示\",\"entries\":[{\"name\":\"屏幕尺寸\",\"value\":\"5.5英寸\"},{\"name\":\"触摸屏类型\",\"value\":\"电容屏、多点触控\"},{\"name\":\"分辨率\",\"value\":\"1280 x 720\"}]},{\"group\":\"存储\",\"entries\":[{\"name\":\"运行内存\",\"value\":\"2GB\"},{\"name\":\"机身内存\",\"value\":\"16GB\"}]}]",
+            "price": 999,
+            "productImages": "[{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-thumbnail.jpg\",\"order\":1},{\"title\":null,\"source\":\"http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-source.jpg\",\"large\":\"http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-large.jpg\",\"medium\":\"http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-medium.jpg\",\"thumbnail\":\"http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-thumbnail.jpg\",\"order\":2}]",
+            "sales": 0,
+            "score": 0,
+            "scoreCount": 0,
+            "sn": "20150101120",
+            "specificationItems": "[]",
+            "totalScore": 0,
+            "type": 0,
+            "unit": "台",
+            "weekHits": 0,
+            "weekHitsDate": 1492013226000,
+            "weekSales": 0,
+            "weekSalesDate": 1492013226000,
+            "weight": 340,
+            "productCategory": 41,
+            "productImagesList": [
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-thumbnail.jpg",
+                "order": 1
+              },
+              {
+                "source": "http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-source.jpg",
+                "large": "http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-large.jpg",
+                "medium": "http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-medium.jpg",
+                "thumbnail": "http://image.demo.shopxx.net/4.0/201501/b42c6794-b8fa-4d2a-9611-1dbc2cbe5a7a-thumbnail.jpg",
+                "order": 2
+              }
+            ],
+            "parameterValuesList": [
+              {
+                "group": "基本参数",
+                "entries": [
+                  {
+                    "name": "操作系统",
+                    "value": "Android"
+                  },
+                  {
+                    "name": "CPU频率",
+                    "value": "1.2GHz"
+                  },
+                  {
+                    "name": "核心数",
+                    "value": "四核"
+                  },
+                  {
+                    "name": "电池类型",
+                    "value": "锂电池"
+                  },
+                  {
+                    "name": "电池容量",
+                    "value": "3100mAh"
+                  }
+                ]
+              },
+              {
+                "group": "显示",
+                "entries": [
+                  {
+                    "name": "屏幕尺寸",
+                    "value": "5.5英寸"
+                  },
+                  {
+                    "name": "触摸屏类型",
+                    "value": "电容屏、多点触控"
+                  },
+                  {
+                    "name": "分辨率",
+                    "value": "1280 x 720"
+                  }
+                ]
+              },
+              {
+                "group": "存储",
+                "entries": [
+                  {
+                    "name": "运行内存",
+                    "value": "2GB"
+                  },
+                  {
+                    "name": "机身内存",
+                    "value": "16GB"
+                  }
+                ]
+              }
+            ],
+            "specificationItemsList": [],
+            "promotions": [],
+            "tags": [],
+            "products": [],
+            "path": "/goods/content/20.jhtml",
+            "new": false,
+            "validPromotions": [],
+            "specificationItemEntryIds": [],
+            "url": "http://localhost:8080/goods/content/20.jhtml",
+            "thumbnail": "http://image.demo.shopxx.net/4.0/201501/c06f23b9-699a-4582-80b0-72b1f7542dcc-thumbnail.jpg"
+          }
+        ],
+        "brands": [],
+        "promotions": [],
+        "parameters": [
+          {
+            "id": 1,
+            "createDate": 1492013108000,
+            "modifyDate": 1492013108000,
+            "version": 0,
+            "orders": 1,
+            "parameterGroup": "基本参数",
+            "names": "[\"操作系统\",\"CPU频率\",\"核心数\",\"电池类型\",\"电池容量\"]",
+            "productCategory": 41,
+            "nameList": [
+              "操作系统",
+              "CPU频率",
+              "核心数",
+              "电池类型",
+              "电池容量"
+            ]
+          },
+          {
+            "id": 2,
+            "createDate": 1492013109000,
+            "modifyDate": 1492013109000,
+            "version": 0,
+            "orders": 2,
+            "parameterGroup": "显示",
+            "names": "[\"屏幕尺寸\",\"触摸屏类型\",\"分辨率\"]",
+            "productCategory": 41,
+            "nameList": [
+              "屏幕尺寸",
+              "触摸屏类型",
+              "分辨率"
+            ]
+          },
+          {
+            "id": 3,
+            "createDate": 1492013110000,
+            "modifyDate": 1492013110000,
+            "version": 0,
+            "orders": 3,
+            "parameterGroup": "存储",
+            "names": "[\"运行内存\",\"机身内存\"]",
+            "productCategory": 41,
+            "nameList": [
+              "运行内存",
+              "机身内存"
+            ]
+          }
+        ],
+        "specifications": [
+          {
+            "id": 1,
+            "createDate": 1492013150000,
+            "modifyDate": 1492013150000,
+            "version": 0,
+            "orders": 1,
+            "name": "颜色",
+            "options": "[\"黑色\",\"白色\",\"银色\",\"灰色\",\"红色\",\"金色\"]",
+            "productCategory": 41,
+            "optionsList": [
+              "黑色",
+              "白色",
+              "银色",
+              "灰色",
+              "红色",
+              "金色"
+            ]
+          },
+          {
+            "id": 2,
+            "createDate": 1492013151000,
+            "modifyDate": 1492013151000,
+            "version": 0,
+            "orders": 2,
+            "name": "内存容量",
+            "options": "[\"16GB\",\"32GB\",\"64GB\",\"128GB\"]",
+            "productCategory": 41,
+            "optionsList": [
+              "16GB",
+              "32GB",
+              "64GB",
+              "128GB"
+            ]
+          },
+          {
+            "id": 10,
+            "createDate": 1500953837000,
+            "modifyDate": 1500953837000,
+            "version": 0,
+            "orders": 3,
+            "name": "网络制式",
+            "options": "[\"移动联通\",\"全网通\"]",
+            "productCategory": 41,
+            "optionsList": [
+              "移动联通",
+              "全网通"
+            ]
+          }
+        ],
+        "path": "/goods/list/41.jhtml",
+        "parentIds": [
+          1,
+          7
+        ]
+      },
+      "brandVO": {
+        "goods": [],
+        "productCategories": [],
+        "id": 1,
+        "createDate": 1492013060000,
+        "modifyDate": 1492013060000,
+        "version": 0,
+        "orders": 1,
+        "introduction": "<p>苹果公司创立之初主要开发和销售的个人电脑，截至2014年致力于设计、开发和销售消费电子、计算机软件、在线服务和个人计算机。苹果的Apple II于1970年代助长了个人电脑革命，其后的Macintosh接力于1980年代持续发展。该公司硬件产品主要是Mac电脑系列、iPod媒体播放器、iPhone智能手机和iPad平板电脑；在线服务包括iCloud、iTunes Store和App Store；消费软件包括OS X和iOS操作系统、iTunes多媒体浏览器、Safari网络浏览器，还有iLife和iWork创意和生产力套件。苹果公司在高科技企业中以创新而闻名世界。</p>",
+        "logo": "http://image.demo.shopxx.net/4.0/201501/a8275260-f9fa-4e20-8173-35b755fabb14.gif",
+        "name": "苹果",
+        "type": 1,
+        "url": "http://www.apple.com",
+        "path": "/brand/content/1.jhtml",
+        "enumType": "image"
+      },
+      "productImagesList": [
+        {
+          "source": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-source.jpg",
+          "large": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-large.jpg",
+          "medium": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-medium.jpg",
+          "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg",
+          "order": 1
+        },
+        {
+          "source": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-source.jpg",
+          "large": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-large.jpg",
+          "medium": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-medium.jpg",
+          "thumbnail": "http://image.demo.shopxx.net/4.0/201501/4146d7e4-1be0-4341-8718-91dd553c696c-thumbnail.jpg",
+          "order": 2
+        }
+      ],
+      "parameterValuesList": [
+        {
+          "group": "基本参数",
+          "entries": [
+            {
+              "name": "操作系统",
+              "value": "iOS"
+            },
+            {
+              "name": "电池类型",
+              "value": "锂电池"
+            }
+          ]
+        },
+        {
+          "group": "显示",
+          "entries": [
+            {
+              "name": "屏幕尺寸",
+              "value": "4.7英寸"
+            },
+            {
+              "name": "触摸屏类型",
+              "value": "电容屏、多点触控"
+            },
+            {
+              "name": "分辨率",
+              "value": "1334 x 750"
+            }
+          ]
+        }
+      ],
+      "specificationItemsList": [
+        {
+          "name": "颜色",
+          "entries": [
+            {
+              "id": 0,
+              "value": "黑色",
+              "isSelected": false
+            },
+            {
+              "id": 1,
+              "value": "白色",
+              "isSelected": false
+            },
+            {
+              "id": 2,
+              "value": "银色",
+              "isSelected": true
+            },
+            {
+              "id": 3,
+              "value": "灰色",
+              "isSelected": true
+            },
+            {
+              "id": 4,
+              "value": "红色",
+              "isSelected": false
+            },
+            {
+              "id": 5,
+              "value": "金色",
+              "isSelected": true
+            }
+          ]
+        },
+        {
+          "name": "内存容量",
+          "entries": [
+            {
+              "id": 6,
+              "value": "16GB",
+              "isSelected": true
+            },
+            {
+              "id": 7,
+              "value": "32GB",
+              "isSelected": false
+            },
+            {
+              "id": 8,
+              "value": "64GB",
+              "isSelected": true
+            },
+            {
+              "id": 9,
+              "value": "128GB",
+              "isSelected": true
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "memberRanks": [],
+          "coupons": [],
+          "gifts": [],
+          "goods": [],
+          "productCategories": [],
+          "id": 1,
+          "createDate": 1492016366000,
+          "modifyDate": 1492016366000,
+          "version": 0,
+          "orders": 1,
+          "image": "http://image.demo.shopxx.net/4.0/201501/0a1ceb47-f51c-4dfb-9d51-cb723c2f8e78.jpg",
+          "introduction": "<p>购买iPhone手机单笔订单满5000元立减100元优惠</p>",
+          "isCouponAllowed": true,
+          "isFreeShipping": false,
+          "minimumPrice": 5000,
+          "name": "满减促销",
+          "priceExpression": "price - 100",
+          "title": "iPhone促销专场",
+          "path": "/promotion/content/1.jhtml"
+        }
+      ],
+      "tags": [
+        {
+          "id": 3,
+          "createDate": 1492016332000,
+          "modifyDate": 1492016332000,
+          "version": 0,
+          "orders": 3,
+          "name": "热销",
+          "type": 1,
+          "enumType": "goods"
+        }
+      ],
+      "products": [
+        {
+          "id": 11,
+          "createDate": 1492013301000,
+          "modifyDate": 1492013301000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 8160,
+          "price": 6800,
+          "rewardPoint": 6800,
+          "sn": "20150101102_3",
+          "specificationValues": "[{\"id\":2,\"value\":\"银色\"},{\"id\":9,\"value\":\"128GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 2,
+              "value": "银色"
+            },
+            {
+              "id": 9,
+              "value": "128GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "银色",
+            "128GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            2,
+            9
+          ]
+        },
+        {
+          "id": 12,
+          "createDate": 1492013302000,
+          "modifyDate": 1492013302000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 6240,
+          "price": 5200,
+          "rewardPoint": 5200,
+          "sn": "20150101102_4",
+          "specificationValues": "[{\"id\":3,\"value\":\"灰色\"},{\"id\":6,\"value\":\"16GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 3,
+              "value": "灰色"
+            },
+            {
+              "id": 6,
+              "value": "16GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "灰色",
+            "16GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            3,
+            6
+          ]
+        },
+        {
+          "id": 13,
+          "createDate": 1492013303000,
+          "modifyDate": 1492013303000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 7320,
+          "price": 6100,
+          "rewardPoint": 6100,
+          "sn": "20150101102_5",
+          "specificationValues": "[{\"id\":3,\"value\":\"灰色\"},{\"id\":8,\"value\":\"64GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 3,
+              "value": "灰色"
+            },
+            {
+              "id": 8,
+              "value": "64GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "灰色",
+            "64GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            3,
+            8
+          ]
+        },
+        {
+          "id": 14,
+          "createDate": 1492013304000,
+          "modifyDate": 1492013304000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 8160,
+          "price": 6800,
+          "rewardPoint": 6800,
+          "sn": "20150101102_6",
+          "specificationValues": "[{\"id\":3,\"value\":\"灰色\"},{\"id\":9,\"value\":\"128GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 3,
+              "value": "灰色"
+            },
+            {
+              "id": 9,
+              "value": "128GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "灰色",
+            "128GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            3,
+            9
+          ]
+        },
+        {
+          "id": 15,
+          "createDate": 1492013305000,
+          "modifyDate": 1492013305000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": true,
+          "marketPrice": 6240,
+          "price": 5200,
+          "rewardPoint": 5200,
+          "sn": "20150101102_7",
+          "specificationValues": "[{\"id\":5,\"value\":\"金色\"},{\"id\":6,\"value\":\"16GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 5,
+              "value": "金色"
+            },
+            {
+              "id": 6,
+              "value": "16GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "金色",
+            "16GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 16,
+          "createDate": 1492013306000,
+          "modifyDate": 1492013306000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 7320,
+          "price": 6100,
+          "rewardPoint": 6100,
+          "sn": "20150101102_8",
+          "specificationValues": "[{\"id\":5,\"value\":\"金色\"},{\"id\":8,\"value\":\"64GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 5,
+              "value": "金色"
+            },
+            {
+              "id": 8,
+              "value": "64GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "金色",
+            "64GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            5,
+            8
+          ]
+        },
+        {
+          "id": 17,
+          "createDate": 1492013307000,
+          "modifyDate": 1492013307000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 8160,
+          "price": 6800,
+          "rewardPoint": 6800,
+          "sn": "20150101102_9",
+          "specificationValues": "[{\"id\":5,\"value\":\"金色\"},{\"id\":9,\"value\":\"128GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 5,
+              "value": "金色"
+            },
+            {
+              "id": 9,
+              "value": "128GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "金色",
+            "128GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            5,
+            9
+          ]
+        },
+        {
+          "id": 9,
+          "createDate": 1492013299000,
+          "modifyDate": 1492013299000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 6240,
+          "price": 5200,
+          "rewardPoint": 5200,
+          "sn": "20150101102_1",
+          "specificationValues": "[{\"id\":2,\"value\":\"银色\"},{\"id\":6,\"value\":\"16GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 2,
+              "value": "银色"
+            },
+            {
+              "id": 6,
+              "value": "16GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "银色",
+            "16GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            2,
+            6
+          ]
+        },
+        {
+          "id": 10,
+          "createDate": 1492013300000,
+          "modifyDate": 1492013300000,
+          "version": 0,
+          "allocatedStock": 0,
+          "exchangePoint": 0,
+          "isDefault": false,
+          "marketPrice": 7320,
+          "price": 6100,
+          "rewardPoint": 6100,
+          "sn": "20150101102_2",
+          "specificationValues": "[{\"id\":2,\"value\":\"银色\"},{\"id\":8,\"value\":\"64GB\"}]",
+          "stock": 100,
+          "goods": 2,
+          "specificationValuesList": [
+            {
+              "id": 2,
+              "value": "银色"
+            },
+            {
+              "id": 8,
+              "value": "64GB"
+            }
+          ],
+          "new": false,
+          "validPromotions": [],
+          "isList": false,
+          "isTop": false,
+          "isMarketable": false,
+          "isDelivery": false,
+          "isOutOfStock": false,
+          "isStockAlert": false,
+          "specifications": [
+            "银色",
+            "64GB"
+          ],
+          "availableStock": 100,
+          "specificationValueIds": [
+            2,
+            8
+          ]
+        }
+      ],
+      "path": "/goods/content/2.jhtml",
+      "new": false,
+      "validPromotions": [],
+      "specificationItemEntryIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "url": "http://localhost:8080/goods/content/2.jhtml",
+      "thumbnail": "http://image.demo.shopxx.net/4.0/201501/d7f59d79-1958-4059-852c-0d6531788b48-thumbnail.jpg",
+      "defaultProduct": {
+        "id": 15,
+        "createDate": 1492013305000,
+        "modifyDate": 1492013305000,
+        "version": 0,
+        "allocatedStock": 0,
+        "exchangePoint": 0,
+        "isDefault": true,
+        "marketPrice": 6240,
+        "price": 5200,
+        "rewardPoint": 5200,
+        "sn": "20150101102_7",
+        "specificationValues": "[{\"id\":5,\"value\":\"金色\"},{\"id\":6,\"value\":\"16GB\"}]",
+        "stock": 100,
+        "goods": 2,
+        "specificationValuesList": [
+          {
+            "id": 5,
+            "value": "金色"
+          },
+          {
+            "id": 6,
+            "value": "16GB"
+          }
+        ],
+        "new": false,
+        "validPromotions": [],
+        "isList": false,
+        "isTop": false,
+        "isMarketable": false,
+        "isDelivery": false,
+        "isOutOfStock": false,
+        "isStockAlert": false,
+        "specifications": [
+          "金色",
+          "16GB"
+        ],
+        "availableStock": 100,
+        "specificationValueIds": [
+          5,
+          6
+        ]
+      }
+    }
+  ]
+}
