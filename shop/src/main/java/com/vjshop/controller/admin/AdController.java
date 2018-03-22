@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
- * Controller - 广告
+ * Controller - 广告  wolaogaibianle
  * 
  * @author VJSHOP Team
  * @version 4.0
